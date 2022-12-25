@@ -51,6 +51,7 @@ The best thing you can do to contribute is provide high-res scans of original ca
  - Split Name/Version
  - Add Artist
  - Improve card text
+ - Add flavor text
  - Add Fan Sets?
 
 
