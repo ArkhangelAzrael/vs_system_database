@@ -31,9 +31,12 @@ For now, what you will find here is:
 
 The best thing you can do to contribute is provide high-res scans of original cards OR recreated them using MSE and the original arts (where possible). Even if we don't have good original arts, we can use placeholder art (please make it obvious in the card) or even leave it blank. Anything is better than nothing and everything is appreciated!
 
-## Join the discord!
+## Join the community!
 
-https://discord.gg/RpnnZJwW
+ - Discord: https://discord.gg/RpnnZJwW
+ - VS System Custom Designs - https://www.facebook.com/groups/610247819041513/
+ - VS system collective - https://www.facebook.com/groups/2239610758
+
 
 ## TODO
 
