@@ -1,4 +1,4 @@
-# vs_system_database
+# VS System Database
 Card and Images Database for Vs System
 
 ## Thank-yous and sources of info and images:
