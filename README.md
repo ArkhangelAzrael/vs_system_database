@@ -11,7 +11,7 @@ For now, what you will find here is:
 
      - Low-res images of all the official cards (by Kevin Johnson)
      - High-res images of a few fan sets gathered by Joey Tufo
-     - A json and a XLS database of all the official cards (still under update, but alrady quite workable)
+     - A JSON and a XLS database of all the official cards (still under update, but alrady quite workable)
      - Original art pieces of official cards gathered by the Vs System Collective facebook group (https://www.facebook.com/groups/2239610758/), specially Chris Tillison.
  
 * Document folder:
