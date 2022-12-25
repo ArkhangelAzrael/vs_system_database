@@ -1,5 +1,5 @@
 ## VS System Database
-here you will find all things related to the old Vs System CCG.
+Here you will find all things related to the old Vs System CCG.
 
 ## Table of Contexts
 
