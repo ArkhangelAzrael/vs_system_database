@@ -1,5 +1,12 @@
-# VS System Database
+## VS System Database
 Card and Images Database for Vs System
+
+## Raw Set To Fix
+
+ - DOR
+ - MMK
+ - MOR
+ - MUN
 
 ## Thank-yous and sources of info and images:
 
