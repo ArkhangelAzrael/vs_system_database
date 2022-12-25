@@ -1,0 +1,63 @@
+from PSPApp import *
+
+def ScriptProperties():
+    return {
+        'Author': u'',
+        'Copyright': u'',
+        'Description': u'',
+        'Host': u'PaintShop Pro',
+        'Host Version': u'16.00'
+        }
+
+def Do(Environment):
+    # EnableOptimizedScriptUndo
+    App.Do( Environment, 'EnableOptimizedScriptUndo', {
+            'GeneralSettings': {
+                'ExecutionMode': App.Constants.ExecutionMode.Default, 
+                'AutoActionMode': App.Constants.AutoActionMode.Match, 
+                'Version': ((16,0,0),1)
+                }
+            })
+
+    # Resize
+    App.Do( Environment, 'Resize', {
+            'AspectRatio': 0.714286, 
+            'CurrentDimensionUnits': App.Constants.UnitsOfMeasure.Pixels, 
+            'CurrentResolutionUnits': App.Constants.ResolutionUnits.PixelsPerIn, 
+            'Height': 1050, 
+            'MaintainAspectRatio': True, 
+            'Resample': True, 
+            'ResampleType': App.Constants.ResampleType.SmartSize, 
+            'ResizeAllLayers': True, 
+            'Resolution': 72, 
+            'Width': 750, 
+            'SharpnessValue': 50, 
+            'AdvancedMode': True, 
+            'GeneralSettings': {
+                'ExecutionMode': App.Constants.ExecutionMode.Default, 
+                'AutoActionMode': App.Constants.AutoActionMode.Match, 
+                'Version': ((16,0,0),1)
+                }
+            })
+
+    # ResizeCanvas
+    App.Do( Environment, 'ResizeCanvas', {
+            'AspectRatio': 0.714286, 
+            'FillColor': (0,0,0), 
+            'HoriPlace': App.Constants.HorizontalType.Center, 
+            'MaintainAspect': False, 
+            'NewDimUnits': App.Constants.UnitsOfMeasure.Pixels, 
+            'NewHeight': 1122, 
+            'NewWidth': 822, 
+            'PlaceBottom': 36, 
+            'PlaceLeft': 36, 
+            'PlaceRight': 36, 
+            'PlaceTop': 36, 
+            'VertPlace': App.Constants.VerticalType.Center, 
+            'GeneralSettings': {
+                'ExecutionMode': App.Constants.ExecutionMode.Default, 
+                'AutoActionMode': App.Constants.AutoActionMode.Match, 
+                'Version': ((16,0,0),1)
+                }
+            })
+
