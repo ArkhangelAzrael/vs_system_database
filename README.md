@@ -17,6 +17,24 @@ For now, what you will find here is:
 * Document folder:
      - All the original FAQs and documents provided by Upper Deck Entertainment
 
+* MPC folder:
+     - Details on how to create your own proxies using the https://www.makeplayingcards.com/ website (by Brian Foley)
+
+* OCTGN folder:
+     - Files and instructions needed to play games using OCTGN (https://github.com/octgn/OCTGN) by Aaron Mead.
+     - But also take a look at https://untap.in, which shouold be a much better alternative for now (and described by Adam Miller here: https://www.facebook.com/groups/2239610758/posts/10155705957170759/)
+
+* Templates folder:
+     - And if you want to create your own cards, take a look at the MSE zip file, provided by Chris Tillison (and join the VS System Custom Designs group https://www.facebook.com/groups/610247819041513)
+
+## How to contribute
+
+The best thing you can do to contribute is provide high-res scans of original cards OR recreated them using MSE and the original arts (where possible). Even if we don't have good original arts, we can use placeholder art (please make it obvious in the card) or even leave it blank. Anything is better than nothing and everything is appreciated!
+
+## Join the discord!
+
+https://discord.gg/RpnnZJwW
+
 ## TODO
 
 ### Raw Sets To Fix Image Names
