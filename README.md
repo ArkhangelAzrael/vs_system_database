@@ -3,7 +3,7 @@ Card and Images Database for Vs System
 
 ## TODO
 
-# Raw Sets To Fix Image Names
+### Raw Sets To Fix Image Names
 
  - DOR
  - MMK
@@ -11,7 +11,7 @@ Card and Images Database for Vs System
  - MUN
  - SUN
 
-# Database fixes
+### Database fixes
  - Split Name/Version
  - Add Artist
  - Improve card text
@@ -20,7 +20,7 @@ Card and Images Database for Vs System
 
 ## Acknowledgements
 
-# Thank-yous and sources of info and images:
+### Thank-yous and sources of info and images:
 
 - VS System Custom Designs - https://www.facebook.com/groups/610247819041513/
 - VS system collective - https://www.facebook.com/groups/2239610758
