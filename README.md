@@ -9,6 +9,7 @@ Card and Images Database for Vs System
  - MMK
  - MOR
  - MUN
+ - SUN
 
 # Database fixes
  - Split Name/Version
