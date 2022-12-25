@@ -1,14 +1,25 @@
 ## VS System Database
 Card and Images Database for Vs System
 
-## Raw Set To Fix
+## TODO
+
+# Raw Sets To Fix Image Names
 
  - DOR
  - MMK
  - MOR
  - MUN
 
-## Thank-yous and sources of info and images:
+# Database fixes
+ - Split Name/Version
+ - Add Artist
+ - Improve card text
+ - Add Fan Sets?
+
+
+## Acknowledgements
+
+# Thank-yous and sources of info and images:
 
 - VS System Custom Designs - https://www.facebook.com/groups/610247819041513/
 - VS system collective - https://www.facebook.com/groups/2239610758
