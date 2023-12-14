@@ -1,0 +1,339 @@
+UDE Erratas
+
+All cards that say "This card is not unique." in its game text have the errata'd version Non-Unique instead.
+
+All "Pay 0 endurance" powers are errata'd into "Free -> ..." powers
+
+
+Adam Strange, Champion of Rann (DCR-217R)
+Character, 2, JLA/Rann, 3/2
+Reservist <p> Reveal Adam Strange >>> If Adam Strange is in your resource row, KO target character with cost 1. If you do, KO Adam Strange and you may put a card from your hand face down into your resource row. Use only once per turn, only if Adam Strange is in your resource row, and only during the recovery phase.
+
+Admiral Galen Kor, Lunatic Legion (MHG-045C)
+Character, 4, Kree, 6/8, Range
+Reservist, Press (When you recruit this card, your next character costs 1 less to recruit this turn for each press card you recruited this turn, but no less than 1.) <p> At the start of the combat phase, Admiral Galen Kor gets +1 ATK this turn for each other character you recruited this turn.
+
+Advance Recon (MMK-211C)
+Plot Twist, 1
+Play only during your first attack this turn in which you control an attacker. <p> If a character you control would cause breakthrough this attack, instead, gain twice that much endurance.
+
+All Hail Darkseid! (DLS-113U)
+Plot Twist, 2
+Target Darkseid's Elite defender you control gets +2 ATK this attack. If that character is named Darkseid, it also gets +2 DEF this attack.
+
+Apocalypse, Forever Walker * Age of Apocalypse (MAA-022R)
+Character, 8, Horsemen of Apocalypse, 20/20, Flight, Range
+At the start of the combat phase, if you've recruited another Apocalypse this game, each player chooses a character he controls and KO's the rest.
+
+Apocalypse, He Who Never Dies * Age of Apocalypse (MAA-004C)
+Character, 5, Horsemen of Apocalypse, 9/9, Flight, Range
+Pay X resource points >>> Put X +1/+1 counters on Apocalypse. <p> KO Apocalypse >>> You may put another Apocalypse card from your hand into play. Use only if Apocalypse has 20 or more +1/+1 counters on him.
+
+Barry Allen <> The Flash, Scarlet Speedster (DJL-003R)
+Character, 6, JLA, 11/9
+Whenever Barry Allen becomes powered-up while attacking a character, if Barry Allen is unequipped, you may ready him. If you do, he can't cause breakthrough this turn.
+
+Bart Allen <> The Flash, Impulsive Speedster (DCR-173R)
+Character, 5, Speed Force/Teen Titans, 9/9
+Bart Allen does not exhaust to attack. <p> Whenever Bart Allen stuns a defender or causes breakthrough, Bart Allen can't attack this turn. <p> Bart Allen can't attack the same character or player more than once per turn.
+
+Bastion, Prime Sentinel (MEV-229R)
+Character, 5, Purifiers/Sentinel, 9/9, Flight, Range
+Shift <p> Discard an Army character card >>> Target character gets -1/-1 this turn.
+
+Beast Boy, Garfield Logan (DCL-064R, DOR-035R)
+Character, 3, Teen Titans, 3/3, Flight
+Whenever Beast Boy attacks, put a +1/+1 counter on him. <p> Whenever Beast Boy defends, put a +1/+1 counter on him for each attacker.
+
+Betrayal (MOR-177R)
+Plot Twist, 2
+Target player stuns a non-stunned character he controls if he controls two or more affiliated characters, unless all affiliated characters he controls share at least one affiliation.
+
+Bizarro World (DSM-087R)
+Location, 2
+Bizarro World is considered to be in all sets. <p> Flip only if you control a Revenge Squad character. <p> Revenge Squad character cards in your hand have shift. (See bizarroworld.com)
+
+Black Box (MEV-078C)
+Plot Twist, 2
+Shuffle up to three target cards not named Black Box from a single player's KO'd pile into his deck. If you control an X-Force character, draw a card.
+
+Black Magic (MMK-164C)
+Plot Twist, 3
+Play only during your first attack this turn in which you control an attacker. <p> Put an Underworld character card from your KO'd pile on the bottom of your deck. If you do, target attacker gets +3/+3 this attack.
+
+Blackheart, Son of Mephisto (MMK-138C)
+Character, 6, Underworld, 14/10, Range
+Discard an Underworld character card >>> Blackheart can't be stunned while in combat with a character with cost 4 or less this turn.
+
+Blinding Rage (DCL-250R)
+Plot Twist, 3
+Target attacker you control gets +4/-4 this attack
+
+Blob, Fred Dukes (MVL-053C, MOR-077C)
+Character, 4, Brotherhood, 6/9
+[Brotherhood] characters in your support row can't be attacked while Blob is visible in your front row.
+
+Boris, Personal Servant of Dr. Doom (MVL-201R, MOR-107R)
+Character, 1, Doom, 1/1
+[Activate], Put Boris on the bottom of your deck >>> Search your deck for a plot twist card, reveal it, and put it into your hand. Use only if you control Dr. Doom.
+
+Breakworld Prophecy (MEV-264R)
+Plot Twist, 1
+To play, exhaust a character you control. <p> Target player replaces a face-up resource he controls thats not a non-ongoing plot twist.
+
+Burn Baby Burn (DWF-153C)
+Plot Twist, 3
+Target Arkham Inmates attacker you control gets +3 ATK this attack. <p> Insanity: You can play this card from your KO'd pile. As you do, remove it from the game.
+
+Cable, Secret Avenger (MUN-003R)
+Character, 3, Avengers/X-Men, 5/4, Range
+Reservist <p> Boost 2: When Cable enters play, if you control another [Avengers] or [X-Men] character, remove Cable and another target character from the game. At the start of your attack step this turn, the owner of each of those character cards returns it to play.
+
+Captain Boomerang, George Harkness (DCL-113C, DJL-077R)
+Character, 2, Injustice Gang/The Rogues, 3/2, Range
+Return Captain Boomerang to his owner's hand >>> Return target character with cost 2 or less to its owner's hand. Use only during your attack step.
+
+Cassie Sandsmark <> Wonder Girl, Zeus's Chosen (DOR-036C)
+Character, 5, Teen Titans, 9/9, Flight
+Cassie Sandsmark can't be stunned by a character with cost 6 or greater. <p> Cassie Sandsmark can't be stunned by attackers while defending against one or more characters with cost 6 or greater. (Apply breakthrough as normal.)
+
+Chemo, Chemical Golem (DLS-206U)
+Character, 3, Villains United, 4/3
+Vengeance: Whenever Chemo becomes stunned, you may recover another target stunned character with cost 3 or less, then stun that character. This power triggers only once per turn.
+
+Clocktower (DOR-027C)
+Location, 1
+Exhaust a support row Gotham Knights character you control >>> Look at the top card of your deck. You may put it on the bottom of your deck. <p> Activate >>> Replace a face-down resource you control.
+
+Clone Saga (MSM-146U)
+Plot Twist, 2
+Play only if you control a Spider-Friends character. <p> Ongoing: Affiliated characters you control, as well as affiliated cards in your deck, hand, and KO'd pile gain the Spider-Friends affiliation. (This is in addition to other affiliations.)
+
+Crisis on Infinite Earths, Team-Up (DJL-174R)
+Plot Twist, 2
+Ongoing: Characters you control, as well as character cards in your hand, KO'd pile, and deck lose all affiliations, have the Crisis affiliation, and can't have any affiliation other than Crisis. <p> Character cards you own are not unique. <p> If a character card you recruited or substituted would come into play, instead, KO all characters you control with the same printed name and version as that card, then put that card into play.
+
+Daily Bugle (MSM-010U)
+Location, 2
+When you flip Daily Bugle, choose a character name. <p> Whenever a character an opponent controls with the chosen name becomes stunned by one or more Spider-Friends characters you control, you may turn a face-up resource you control face down.
+
+Daredevil, Guardian Devil (MMK-006C)
+Character, 7, Marvel Knights, 15/15, Concealed
+When Daredevil enters play or recovers, if you have 10 or less endurance and Daredevil is hidden, move him to your visible area. <p> Whenever you lose endurance, if you then have 10 or less endurance and Daredevil is hidden, move him to your visible area.
+
+District X (MXM-193U)
+Location, 1
+At the start of the combat phase, choose a Mutant trait. Characters you control, as well as character cards in your deck, hand, and KO'd pile are Mutants and gain the chosen trait this turn.
+
+Doom-Bot Corps, Army (MHG-131C)
+Character, 3, Doom, 5/4, Flight, Range
+Pay 3 endurance >>> If you don't control a Dr. Doom, Doom-Bot Corps has the name Dr. Doom and loses all other names and versions this turn. Use only once per turn.
+
+Dr. Light, Master of Holograms (DGL-040U)
+Character, 3, Emerald Enemies, 3/4, Flight, Range
+Willpower 2 <p> Activate >>> Put target character card with cost 2 or less from your KO'd pile into your front row if you don't control a character with the same name as that card. Use only once per turn and only during your recruit step.
+
+Fifth Dimension (DGL-152R)
+Location, 4
+Activate >>> Remove target non-stunned character you control from the game. At the start of the next draw phase, if that card has the printed Revenge Squad affiliation, put it into your front row.
+
+Foiled (MOR-191R)
+Plot Twist, 1
+Play only from your resource row and only during the combat phase. <p> If Foiled is in your resource row, KO target ongoing plot twist and KO Foiled.
+
+Forced Allegiance (MSM-151U)
+Plot Twist, 2
+To play, choose an affiliation among characters you control. <p> Ongoing: Affiliated characters you control lose all affiliations and gain the chosen affiliation.
+
+Francis Klum <> Mysterio, Mutant Magician (MTU-096C)
+Character, 4, Sinister Syndicate, 8/5, Concealed, Range
+MutantMental
+Whenever another Sinister Syndicate character you control defends, you may exhaust Francis Klum. If you do, remove all defenders from this attack and Francis Klum becomes a defender.
+
+Hawkeye <> Ronin, Secret Avenger (MUN-013U)
+Character, 2, Avengers, 3/2, Concealed, Range
+Reservist <p> When Hawkeye enters play, rally for a character card. If you're successful, you may KO a character with cost 1 or less.
+
+Head Shot (MMK-034C)
+Plot Twist, 1
+Play only during your first attack this turn in which you control an attacker. <p> Target Marvel Knights attacker gets +X ATK this attack, where X is that character's cost.
+
+Hired Hit (MAV-218R)
+Plot Twist, 2
+Stun a Crime Lords defender you control. If you do, remove all defenders from this attack, and target non-defending character you control becomes a defender.
+
+Invisible Woman, The Invisible Girl (MOR-050U)
+Character, 1, Fantastic Four, 1/1
+When Invisible Woman enters play, put an invisibility counter on her. <p> Whenever Invisible Woman defends, you may remove an invisibility counter from her. If you do, remove all attackers from this attack.
+
+Ka-Boom! (MOR-196R)
+Plot Twist, 2
+Play only from your resource row and only during the combat phase. <p> If Ka-Boom! is in your resource row, KO target location and KO Ka-Boom!.
+
+Kang <> Iron Lad, Non-Unique * Young Avenger (MUN-261R)
+Character, 6, Kang Council, 12/12, Flight, Range
+Kang can reinforce and team attack as though he had all affiliations. <p> Attackers can't be stunned while Kang is team attacking. <p> At the start of each opponent's attack step, if Kang team attacked this turn, ready him and all characters that team attacked with him this turn.
+
+Leech, Inhibitor (MXM-056U)
+Character, 2, Morlocks, 2/3
+MutantEnergy
+Evasion <p> Whenever Leech becomes stunned, you may discard a card. If you do, negate target character payment effect.
+
+Mammoth, Baran Flinders (DOR-123R)
+Character, 3, Fearsome Five, 8/8
+To recruit, reveal a Fearsome Five character card from your hand. <p> When Mammoth enters play, KO a resource you control, and when Mammoth next enters a KO'd pile from play, put the top card of your deck face down into your resource row. <p> Whenever Mammoth becomes stunned, KO him.
+
+Mary Jane Watson, MJ (MSM-045R)
+Character, 1, Spider-Friends, 1/1
+Protected Spider-Friends defenders you control have reinforcement. <p> Whenever one or more Spider-Friends team attackers you control stun a defender, draw a card.
+
+Mephisto, Father of Lies (MMK-146R)
+Character, 8, Underworld, 15/20, Flight, Range
+Recruit only if you have three or more Underworld character cards in your KO'd pile. <p> You can't lose and your opponents can't win the game. <p> At the start of your attack step, KO three characters you control. If you don't, KO Mephisto.
+
+Mimic, Earth-12 * Infected (MEV-148R)
+Character, 6, Exiles/X-Men, 13/12, Flight, Range
+Shift <p> When Mimic enters play, he gains the printed powers and keywords of all opposing characters. Any reference to an affiliation in the gained powers is changed to Exiles.
+
+Moon Knight, Marc Spector (MMK-021C)
+Character, 4, Marvel Knights, 7/6
+Moon Knight gets +3/+1 while you have the initiative. <p> Boost 2: When Moon Knight enters play, he gets +4 ATK this turn if you have the initiative. Otherwise, he gets +6 ATK this turn.
+
+Morg, Harbinger of Extinction (MHG-016C)
+Character, 7, Heralds of Galactus, 17/15, Flight, Range
+Cosmic: Whenever a character becomes stunned during the combat phase, you may reveal a Heralds of Galactus character card from your hand. If you do, return that character to its owner's hand unless its controller reveals a card from his hand with cost greater than the cost of the card you revealed.
+
+Mr. Hyde, Engine of Destruction (MAV-138C)
+Character, 4, Masters of Evil, 7/7
+Reservist (You may recruit this card from your resource row. If you do, you may put a card from your hand face down into your resource row.) <p> Mr. Hyde gets +2/+2 while an opponent controls a character with a greater cost than that of each character you control.
+
+My Hero (MSM-063U)
+Plot Twist, 3
+Choose a character you control. <p> Ongoing: Support row Spider-Friends characters you control are protected while the chosen character is ready, visible, and in your front row.
+
+Never Give Up! (MMK-083U)
+Plot Twist, 4
+Play only during your first attack this turn in which you control an attacker. <p> KO a character you control with an affiliation other than X-Statix. If you do, ready target X-Statix attacker you control. (The character you KO can have the X-Statix affiliation in addition to its other affiliations.)
+
+Nimrod, Killing Machine (MEV-232R)
+Character, 4, Purifiers/Sentinel, 8/7, Flight, Range
+Shift <p> KO an Army character you control >>> When Nimrod next becomes stunned this turn, recover him at the start of the recovery phase this turn.
+
+Parademon, Apokoliptian Ally (DCR-161C)
+Character, 3, Secret Six, 4/4, Flight, Range
+Remove Parademon from the game >>> Whenever a Secret Six character you control with cost 4 or greater becomes stunned this turn, you may put Parademon into your front row if you don't control a Parademon. Use only if Parademon is in your hand.
+
+Power Surge (DGL-207U)
+Plot Twist, 3
+Discard up to three cards. Target character gets +1 willpower this turn and an additional +1 willpower this turn for each card you discarded.
+
+Psi-Link (MXM-176R)
+Plot Twist, 2
+Play only if you control a Mental character. <p> To play, choose a Mutant trait. <p> Ongoing: Characters you control, as well as character cards in your deck, hand, and KO'd pile, with either the Mental or the chosen trait are Mutants and have both traits.
+
+Rama-Tut, Pharaoh from the 30th Century (MOR-116R)
+Character, 2, Doom, 2/2
+When Rama-Tut enters play, if you recruited him and you control Dr. Doom, you may return target plot twist card from your KO'd pile to your hand.
+
+Red Shift, Rift Walker (MHG-018R)
+Character, 5, Heralds of Galactus, 10/9, Concealed, Flight, Range
+Cosmic: Whenever Red Shift attacks, you may remove all attackers and defenders from the game. If you do, the owner of each of those cards puts it into his front row at the start of the recovery phase this turn.
+
+Red Tornado, John Smith (DJL-019C)
+Character, 2, JLA, 2/3, Flight, Range
+If a team attacker you control would become stunned, instead, you may stun Red Tornado. <p> When Red Tornado enters a KO'd pile from play, you may return him to his owner's hand.
+
+Remoni-Notra <> Star Sapphire, Obsessed Warrior Princess (DGL-057C)
+Character, 5, Emerald Enemies, 9/7, Flight, Range
+Willpower 4 <p> Whenever an attacker you control stuns a defender and that attacker's willpower is greater than that defender's cost, KO that defender.
+
+Rise from the Grave (MSM-158R)
+Plot Twist, 2
+To play, pay 5 endurance. <p> Recover target stunned character you control and move it to your support row. Lose endurance equal to that character's cost.
+
+Scarecrow, Fearmonger (DJL-135C)
+Character, 5, Secret Society/Arkham Inmates, 10/9
+Whenever Scarecrow stuns a character, put a +1/+1 counter on Scarecrow. <p> At the start of the combat phase, you may remove a counter from target character. If you do, put a +1/+1 counter on target character you control.
+
+Scarlet Spider <> Spider-Man, Successor (MMK-201R)
+Character, 2, Spider-Friends, 2/3
+Whenever a Spider-Man enters play under your control, you may move it to your hidden area.
+
+Secret Files (DCL-152C, DJL-111C)
+Plot Twist, 2
+Play only if you control an Injustice Gang character. <p> Each player in turn searches his deck for an affiliated character card, reveals it, and puts it into his hand.
+
+Sentinel Squad O*N*E*, Army (MUN-106U)
+Character, 5, S.H.I.E.L.D./Sentinel, 9/9, Flight, Range
+BoostReturn a character you control to its owner's hand: When Sentinel Squad O*N*E* enters play, return up to three target Army character cards from your KO'd pile to your hand.
+
+She-Hulk, Agent of S.H.I.E.L.D. (MUN-109C)
+Character, 5, S.H.I.E.L.D./Avengers, 8/9
+Reservist <p> At the start of the combat phase, you may replace a reservist resource you control. If you do, put a +1/+1 counter on She-Hulk.
+
+Silver Sabre, Freedom Force (MXM-105C)
+Character, 3, Brotherhood, 5/3
+MutantPhysical
+Whenever Silver Sabre causes 3 or more breakthrough while attacking a character, you may recover and ready Silver Sabre, and he can't cause breakthrough this turn.
+
+Silver Surfer, Righteous Protector (MHG-020C)
+Character, 5, Heralds of Galactus, 9/9, Flight, Range
+Cosmic: Remove a cosmic counter from Silver Surfer >>> Whenever a character with cost 4 or less becomes stunned during the combat phase this turn, return it to its owner's hand.
+
+Sinister Six (MSM-159U)
+Plot Twist, 2
+Play only if you control a Sinister Syndicate character. <p> Ongoing: Affiliated characters you control, as well as affiliated cards in your deck, hand, and KO'd pile gain the Sinister Syndicate affiliation. (This is in addition to other affiliations.)
+
+Spider-Man, Cosmic Spider-Man (MSM-054R)
+Character, 8, Spider-Friends, 17/17, Flight, Range
+Spider-Friends attackers you control can't be stunned. <p> At the start of the combat phase, Spider-Man gets +1/+1 this turn for each non-stunned character target opponent controls.
+
+Starlings, Army (DGL-060U)
+Character, 1, Emerald Enemies, 1/1, Flight
+Starlings enters play exhausted. <p> Whenever Starlings becomes stunned, KO it. <p> Activate, pay 1 resource point >>> You may discard a card. If you do, search your deck for up to two cards named Starlings and put them into your front row.
+
+Stilt-Man, Wilbur Day (MMK-113R)
+Character, 2, Crime Lords, 3/2
+Whenever a character an opponent controls gains one or more counters or enters play with one or more counters, if that character is not named Stilt-Man, put a +1/+1 counter on Stilt-Man. <p> Boost 1: When Stilt-Man enters play, put a +1/+1 counter on him.
+
+Sub-Mariner, The Avenging Son (MUN-249U)
+Character, 5, Atlantis/Marvel Defenders, 9/8, Flight
+BoostExhaust X other characters you control: Sub-Mariner enters play with X +1/+1 counters.
+
+Thing, Heavy Hitter (MVL-180R, MOR-063R)
+Character, 5, Fantastic Four, 11/11
+Loyalty (Recruit Thing only if you control a character that shares an affiliation with him.)
+
+Time Gem, Unique * Infinity Gem (MHG-185R)
+Equipment, 0
+Whenever equipped character becomes stunned, you may return Time Gem to its owner's hand. <p> Whenever a player plays a non-ongoing plot twist, return Time Gem to its owner's hand. If you do, discard a card and negate that plot twist's effect.
+
+T. O. Morrow, Thomas Oscar Morrow (DJL-166U)
+Character, 3, 2/6
+Pay 1 resource point >>> You may pay 1 resource point rather than pay the recruit cost of non-Army character cards with cost 2 this turn.
+
+Underground Sentinel Base (MOR-155R)
+Location, 5
+Activate >>> You may reveal a face-down Army character card with the printed Sentinel affiliation from your resource row and move it face up to your front or support row. Use only during your recruit step.
+
+Unravel Reality (DLS-127U)
+Plot Twist, 3
+To play, discard a substitute card. <p> Ongoing: Whenever you substitute a Darkseid's Elite character into play, the controller of target face-up non-Team-Up resource loses endurance equal to its cost. You may replace that resource.
+
+Werewolf by Night, Jack Russell (MMK-161C)
+Character, 2, Underworld, 2/2, Concealed
+At the start of the combat phase, Werewolf by Night gets +1/+1 this turn if you have the initiative. Otherwise, put the top card of your deck into your KO'd pile.
+
+Witching Hour (MMK-179R)
+Plot Twist, 7
+To play, pay 2 resource points. <p> Choose any number of Underworld character cards in your KO'd pile each with cost 2 or less. During your recruit step this turn, while each of those cards is in your KO'd pile, you may recruit it, and it has "Pay 2 endurance >>> Put this card into your front row. Then, if it's unique, put each other unique character you control with this card's name into its owner's KO'd pile."
+
+Post UDE Erratas:
+
+Armed Escort (MMK-119C)
+Equipment, 1
+Armed Escort costs 1 less to recruit while you control a Crime Lords character. <p> Equipped character has "Activate >>> If you control a defender, remove all defenders from this attack, and equipped character becomes a defender. Use only once per attack"
+
+Nick Fury, Col. Nicholas Fury (MVL-123R)
+Character, 1, Marvel Knights, 1/1, Range
+Loyalty <p> Exhaust X equipped [Marvel Knights] characters you control >>> Stun target opposing character with cost less than X. 
