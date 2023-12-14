@@ -24,7 +24,7 @@ For now, what you will find here is:
 
 * OCTGN folder:
      - Files and instructions needed to play games using OCTGN (https://github.com/octgn/OCTGN) by Aaron Mead.
-     - But also take a look at https://untap.in, which should be a much better alternative for now (and described by Adam Miller here: https://www.facebook.com/groups/2239610758/posts/10155705957170759/)
+     - But also take a look at https://untap.in, which could be a good alternative (and described by Adam Miller here: https://www.facebook.com/groups/2239610758/posts/10155705957170759/)
 
 * Templates folder:
      - And if you want to create your own cards, take a look at the MSE zip file, provided by Chris Tillison (and join the VS System Custom Designs group https://www.facebook.com/groups/610247819041513)
