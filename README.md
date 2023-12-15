@@ -9,8 +9,8 @@ For now, what you will find here is:
 
  * Database folder:
 
-     - Low-res images of all the official cards (by Kevin Johnson)
-     - High-res images of a few fan sets gathered by Joey Tufo
+     - Low-res images of all the official cards
+     - High-res images of a few fan sets gathered
      - Vs System Remix Images
      - Booster pack images
      - A JSON and a XLS database of all the official cards (still under update, but already quite workable)
